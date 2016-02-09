@@ -17,4 +17,3 @@ begin_pos2 = text.find(":")
 num_str2 = text[begin_pos2 + 1:]
 num_float2 = float(num_str2)
 print num_float2
-
